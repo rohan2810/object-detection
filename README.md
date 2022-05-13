@@ -14,6 +14,7 @@
 
 #### Velocity Detection
 - For testing purposes, we have provided an excel sheet for you to use which has all of our data collected - irobot/excel/combined.xlsx
+- If you desire to use your own data, follow the steps provided in the sections below
 - Open lstm_prediction_model.ipynb
 - If on Google Colab please upload the combined.xlsx to Colab directly
 - Run all the steps/code provided and all the results for velocity detections should be shown
@@ -75,6 +76,7 @@
 
 #### Velocity Detection
 - For testing purposes, we have provided an excel sheet for you to run which has all of our data collected - irobot/excel/combined.xlsx
+- If you desire to use your own data, format your excel document from the object detection results just like the one provided
 - Open lstm_prediction_model.ipynb
 - If on Google Colab please upload the combined.xlsx to Colab directly
 - Run all the steps/code provided and all the results for velocity detections should be shown

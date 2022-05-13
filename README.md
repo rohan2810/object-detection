@@ -21,10 +21,14 @@
 
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
-## Instructions for running project yourself
+## Instructions for setting up project from scratch and running project yourself
 
 - The first step is to open the roboflow_yolo.ipynb file.
 - Start running all the lines provided in the given script
@@ -37,7 +41,7 @@
 - Copy the runs folder and the trim_35 folder or copy your own weights generated if you decided to retrain the model into the yolov5 folder
 - Please install pytorch using the first line given in yolo_detections.ipynb
 - Please do not run lines 
--     !git clone https://github.com/ultralytics/yolov5) as yolov5 is already set up
+-     !git clone https://github.com/ultralytics/yolov5) 
 -     !python train.py --img 320 --batch 16 --epochs 200 --data dataset.yml --weights yolov5s.pt --workers 2
 - Please run all the other given lines to see the object detection model identifying the sphero
 

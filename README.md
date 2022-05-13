@@ -64,6 +64,8 @@
 - Go into the labels folder for exp and run command prompt
 - For windows run the line to combine everything into all.txt
 -         (for /l %a in (1 1 846) do @type "%a.txt")>all.txt
+- For mac run the line to combine everything into all.txt
+-         cat *.txt > all.txt       
 - Replace the number 846 above in the for line to the number of txt files generated in the exp/labels folder
 - Once done, open the irobot/excel/trim36.xlsx file
 - Import the txt all.txt generated from before into the excel sheet

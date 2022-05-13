@@ -1,5 +1,5 @@
-path: ../data
-train: images
+path: ../data  
+train: images  
 val: images
 
 # Classes

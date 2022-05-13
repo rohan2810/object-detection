@@ -5,7 +5,7 @@
 ## Instructions for only testing results of project
 
 #### Object Detection
-- Copy the runs folder and the trim_35 folder into the yolov5 folder
+- Copy the runs folder into the yolov5 folder
 - Please install pytorch using the first line given in yolo_detections.ipynb
 - Please do not run lines 
 -     !git clone https://github.com/ultralytics/yolov5) as yolov5 is already set up
@@ -25,6 +25,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 
 
